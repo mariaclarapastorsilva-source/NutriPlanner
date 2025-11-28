@@ -1,0 +1,5 @@
+A modelagem do Diagrama de Classes foi realizada em ambiente externo. O acesso ao artefato requer autenticação prévia na plataforma hospedeira.
+
+Acesso ao artefato:
+
+https://www.mermaidchart.com/app/projects/77753a31-6dde-475d-9248-0d65f58a6c7b/diagrams/cc1dde12-c87b-4ab2-aff8-29022134f4c3/share/invite/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkb2N1bWVudElEIjoiY2MxZGRlMTItYzg3Yi00YWIyLWFmZjgtMjkwMjIxMzRmNGMzIiwiYWNjZXNzIjoiRWRpdCIsImlhdCI6MTc2MzgyMjkxM30.sllQtR4LsCgLQzq7euSyCoVSHddSYV4xmsgEaEMgZ2k
